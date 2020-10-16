@@ -7,7 +7,7 @@ export default function FunctionBasedCircle() {
 
   return (
     <section
-      class={`section column is-two-fifths circle box`}
+      className={`section column is-two-fifths circle box`}
       onMouseEnter={enterElement}
       onMouseLeave={leaveElement}
     >

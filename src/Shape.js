@@ -6,7 +6,7 @@ export default function Shape({ type, shape, isHovered }) {
   let message = isHovered ? 'You are hoving over me! 🎉' : 'Try hovering over me';
 
   return (
-    <div class="container">
+    <div className="container">
       <Title title={`A ${shape} using a ${type}`} />
       <SubTitle description={message} />
     </div>

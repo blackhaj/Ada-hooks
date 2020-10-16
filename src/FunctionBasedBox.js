@@ -7,7 +7,7 @@ export default function FunctionBasedBox() {
 
   return (
     <section
-      class={`section column is-two-fifths box`}
+      className={`section column is-two-fifths box`}
       onMouseEnter={enterElement}
       onMouseLeave={leaveElement}
     >

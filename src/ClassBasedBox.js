@@ -22,7 +22,7 @@ export default class ClassBasedBox extends Component {
   render() {
     return (
       <section
-        class={`section column is-two-fifths box`}
+        className={`section column is-two-fifths box`}
         onMouseEnter={this.handleMouseEnter}
         onMouseLeave={this.handleMouseLeave}
       >
