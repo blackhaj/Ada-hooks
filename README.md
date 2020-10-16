@@ -20,7 +20,7 @@ This example app aims to show the power of hooks, not how to use them.
 * This makes for *DRY*er code and happier devs
 
 ## Overview of App
-~This is a contrived example but hopefully sheds some light~
+_This is a contrived example but hopefully sheds some light_
 * In the app I have made two different components.
   1. [A Box](src/ClassBasedBox.js)
   2. [A Circle](src/ClassBasedCircle.js) (well... oval)
