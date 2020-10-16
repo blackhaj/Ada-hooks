@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4. Start the server `npm start`
 
 ## Prerequisites
-*I assume you already know how Hooks work*
+*I assume you already know how Hooks work.*  
 This example app aims to show the power of hooks, not how to use them.
 
 ## Key points
